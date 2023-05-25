@@ -1,4 +1,6 @@
-# Cities Run the application. 
+# Cities 
+
+Run the application. 
 
 To access the endpoints, you need to register and authorize. 
 
